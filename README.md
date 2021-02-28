@@ -8,7 +8,7 @@
 
 
 
-✨📫 How to reach me: 
+### ✨📫 How to reach me: 
 <br> 
 Email 
 <br>
@@ -16,6 +16,7 @@ Email
 <br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 
+### 🌱 Kind of you to stop by 😄
 
 
 <!--
