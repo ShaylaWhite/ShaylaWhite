@@ -1,6 +1,8 @@
-[![Shayla's GitHub Banner](./assets/cover.png)]
 
 ### Hi I'm Shayla 👋
+
+
+[![Shayla's GitHub Banner](./assets/cover.png)]
 
 ✨ Open to questions - feedback - & collaboration as well as prospective employment opportunities!
 
