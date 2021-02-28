@@ -1,4 +1,5 @@
-(./assets/cover.png)
+
+[!(./assets/cover.png)]
 
 ### Hi I'm Shayla 👋
 
