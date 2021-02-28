@@ -1,5 +1,4 @@
-
-[!(./assets/cover.png)]
+[![Shayla's GitHub Banner](./assets/cover.png)]
 
 ### Hi I'm Shayla 👋
 
