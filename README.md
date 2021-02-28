@@ -8,7 +8,6 @@ Open to questions - feedback - & collaboration as well as prospective employment
 I have experience in JavaScript | React | Redux | JQuery | Ruby | Rails | Rack | REST API | SQL | Sinatra | HTML | CSS | JSON | Bootstrap 
 
 ## ✨📫 How to reach me: 
-<br>
  [Email](https://pages.github.com/) |
  [LinkedIn](https://pages.github.com/) | 
  [Website](https://pages.github.com/) | 
