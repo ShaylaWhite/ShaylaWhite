@@ -9,10 +9,10 @@ I have experience in JavaScript | React | Redux | JQuery | Ruby | Rails | Rack |
 
 [![Shayla's GitHub Banner](./assets/cover.png)](https://braydoncoyer.dev)
 
-# ✨📫 How to reach me: 
+✨📫 How to reach me: 
  [Email](https://pages.github.com/) |
  [LinkedIn](https://pages.github.com/) | 
  [Website](https://pages.github.com/) | 
  [Blog](https://pages.github.com/) | 
 
-# 🌱 Kind of you to stop by 😄
+🌱 Kind of you to stop by 😄
