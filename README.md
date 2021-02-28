@@ -11,10 +11,10 @@
 
 # ✨📫 How to reach me: 
 
-This site was built using [Email](https://pages.github.com/)
-This site was built using [LinkedIn](https://pages.github.com/).
-This site was built using [Website](https://pages.github.com/).
-This site was built using [Blog](https://pages.github.com/).
+| [Email](https://pages.github.com/) | <br>
+| [LinkedIn](https://pages.github.com/) | <br>
+| [Website](https://pages.github.com/) | <br>
+| [Blog](https://pages.github.com/) | <br> 
 
 
 
