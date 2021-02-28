@@ -1,4 +1,4 @@
-![Shayla's GitHub Banner](./assets/cover.png)
+[![Shayla's GitHub Banner](./assets/cover.png)]
 
 ### Hi I'm Shayla 👋
 
@@ -8,7 +8,7 @@
 
 
 
-📫 How to reach me: 
+✨📫 How to reach me: 
 <br> 
 Email 
 <br>
