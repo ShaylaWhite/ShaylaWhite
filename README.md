@@ -1,11 +1,6 @@
-
-https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1
-
+(./assets/cover.png)
 
 ### Hi I'm Shayla 👋
-
-[![Braydon's GitHub Banner](./assets/cover.png)]
-
 
 
 <!--
