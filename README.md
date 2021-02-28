@@ -1,4 +1,12 @@
-### Hi there 👋
+
+https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1
+
+
+### Hi I'm Shayla 👋
+
+[![Braydon's GitHub Banner](./assets/cover.png)]
+
+
 
 <!--
 **ShaylaWhite/ShaylaWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
