@@ -1,16 +1,26 @@
-
 [![Shayla's GitHub Banner](./assets/cover.png)](https://braydoncoyer.dev)
 
-# Hi I'm Shayla 👋
+# Hey there, I'm Shayla! 👋
 
-Open to questions - feedback - & collaboration as well as prospective employment opportunities! <br> 
+Welcome to my GitHub playground, where I'm always up for a tech adventure. 🚀
 
-I have experience in JavaScript | React | Redux | JQuery | Ruby | Rails | Rack | REST API | SQL | Sinatra | HTML | CSS | JSON | Bootstrap 
+### 💼 Seeking Opportunities:
 
-### ✨📫 How to reach me: 
- [Email](https://pages.github.com/) |
- [LinkedIn](https://pages.github.com/) | 
- [Website](https://pages.github.com/) | 
- [Blog](https://pages.github.com/) | 
+I'm open to questions, feedback, and collaboration, as well as exploring exciting employment opportunities!
 
-### So very kind of you to stop by 😄
+### 🚀 Skills & Expertise:
+
+- **Front-End Magic:** HTML, CSS, JavaScript, React, Redux, React Native, Swift, TypeScript, Angular
+- **Back-End Sorcery:** Node.js, Ruby on Rails, Spring Boot, Java, SQL, Relational Database Design
+- **Cloud & Infrastructure Mastery:** AWS, GCP, BigQuery
+- **Coding Wizardry:** Object-Oriented Design, Version Control Systems, Cross-Browser Compatibility
+
+### ✨📫 How to Connect:
+
+- 📧 [Email Me](https://pages.github.com/)
+- 🤝 [LinkedIn](https://www.linkedin.com/in/shayla-white/)
+- 🌐 [Visit My Website](https://shaylawhite.github.io/shayportfolio/)
+- 🐦 [Tweet Me](https://twitter.com/ShaylaWhit38630/)
+
+### 🌟 Thanks for stopping by! 😄
+
